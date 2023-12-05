@@ -1,14 +1,3 @@
-
-## Tech Stack
-HaroonRehman/Document-Scanner-with-OpecnCV-Python is built on the following main stack:
-
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-
-Full tech stack [here](/techstack.md)
-
-
-
-
 # Document-Scanner-with-OpecnCV-Python
 
 Document Scanner that Auto Detects Paper of A4 size, Gets it corner and representing the paper only. It also uses adaptive threshold to To help  with text reading and extraction.
@@ -31,3 +20,12 @@ Current Document Scanning Detection is A4 size you can tweak this to work with d
 ###### The Screenshot of the code Functionality
 
 ![Screenshot_20230205_224452](https://user-images.githubusercontent.com/76829403/216836552-1add2d5e-0b8b-47f2-bf1a-835eb56fc922.jpg)
+
+
+
+## Tech Stack
+HaroonRehman/Document-Scanner-with-OpecnCV-Python is built on the following main stack:
+
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+
+Full tech stack [here](/techstack.md)
