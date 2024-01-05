@@ -1,7 +1,8 @@
 repo_name: HaroonRehman/Document-Scanner-with-OpecnCV-Python
-report_id: 5d94e1c631297fda30df85ce8c65bdcf
+report_id: 9ff66f853fb6d21cf2b5ea9eca534293
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T13:27:28+00:00'
+timestamp: '2024-01-05T08:28:54+00:00'
 requested_by: HaroonRehman
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/HaroonRehman/Document-Scanner-with-OpecnCV-Python
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/HaroonRehman/Document-Scanner-with-OpecnCV-Python
   detection_source: Repo Metadata
